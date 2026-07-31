@@ -28,4 +28,4 @@ public class MinCostClimbingStairs {
 
         System.out.println("Minimum Cost = " + ans);
     }
-}
+}  
